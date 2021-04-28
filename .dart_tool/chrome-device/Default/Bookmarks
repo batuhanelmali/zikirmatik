@@ -1,0 +1,145 @@
+{
+   "checksum": "2c6315f74850c04f91e9c0c1513cead8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13238442484711001",
+            "guid": "86fab286-3a51-40f9-89be-d05dfdec19fc",
+            "id": "7",
+            "name": "Twitch",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.twitch.tv/"
+         }, {
+            "date_added": "13248022623799390",
+            "guid": "e4bbf7a3-cd22-4521-be2c-a9bab0091967",
+            "id": "8",
+            "name": ":: TEKNOLOJİ FAKÜLTESİ ::",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.tf.selcuk.edu.tr/index.php?lang=tr&birim=033001&page=1460"
+         }, {
+            "date_added": "13248022605032283",
+            "guid": "98117159-1a1f-47bf-88a9-90d89e5a1173",
+            "id": "9",
+            "name": "Ders: Mantık Devreleri - 1",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.sutef.gen.tr/course/view.php?id=156"
+         }, {
+            "date_added": "13248022711871468",
+            "guid": "485e9189-c97e-4be8-9f40-1293128df140",
+            "id": "10",
+            "name": "Prof.Dr. Fatih BAŞÇİFTÇİ | Kişisel Web Sitesi﻿",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://fatihbasciftci.com/index.php"
+         }, {
+            "date_added": "13249235673703578",
+            "guid": "1eb1ae2d-cd3b-47aa-9221-3f97564f2219",
+            "id": "11",
+            "name": "Virtual Piano - World's Best Online Piano Keyboard - RELOADED!",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://virtualpiano.net/"
+         }, {
+            "date_added": "13254345691248664",
+            "guid": "dac9c05d-e189-4904-8aa2-14840c00aa7c",
+            "id": "12",
+            "name": "Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/"
+         }, {
+            "date_added": "13263069353455904",
+            "guid": "e9567c6c-7930-439e-bf6f-1e6bbb896078",
+            "id": "13",
+            "name": "Icons - Google Fonts",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://fonts.google.com/icons"
+         }, {
+            "date_added": "13256474446538755",
+            "guid": "06296b5f-4cbf-4273-b50c-6c867142037d",
+            "id": "14",
+            "name": "BUNU SİLME! yürüyüş videosu",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=u3fehQJfbVQ&ab_channel=YogadayogaZeynepSensoy"
+         }, {
+            "date_added": "13263070860774981",
+            "guid": "40e72865-4616-4301-aaa6-4b7f3b9e99e9",
+            "id": "15",
+            "name": "Material Design Color Palette Generator - Material Palette",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.materialpalette.com/"
+         }, {
+            "date_added": "13264008870783030",
+            "guid": "7eccad4d-3b49-4009-8de6-551445cfac2b",
+            "id": "16",
+            "name": "En Trend Ürünler Türkiye'nin Online Alışveriş Sitesi Trendyol'da",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.trendyol.com/hesabim/siparislerim/589125276"
+         } ],
+         "date_added": "13264076827613850",
+         "date_modified": "13264008870783030",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Sık kullanılanlar çubuğu",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [  ],
+               "date_added": "13264076837313076",
+               "date_modified": "13264076837313076",
+               "guid": "8a8e13bb-6ad5-4f0a-9940-efdb6cfda711",
+               "id": "6",
+               "name": "Grup 1",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13264076837312953",
+            "date_modified": "13264076837312953",
+            "guid": "77be0a6b-391b-4265-aae8-ef84d8953754",
+            "id": "5",
+            "name": "Kaydederek kaldırılan sekmeler",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13264076827613853",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Diğer sık kullanılanlar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13264076827613854",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobil sık kullanılanlar",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Ci4KDgiIgQISCMoq4Bd5AQAAEgAgASoYd1M0R2QzVC9nNTlabnhTalloN2xZZz09EqgBCA8SowEKHDFVaDBwZ0pTc0w1dHFvYXhzNXh6VmMzYWhhbz0SJDQwZTcyODY1LTQ2MTYtNDMwMS1hYWE2LTRiN2YzYjllOTllORgAIAAoADCF7qjfjS8459uo340vQOfbqN+NL0ocUllVZ0o1TExoWnA5ZDNaZ3dyKzlrNHlZaWpFPVofIh37UkJIaXZqMjkxVEw1a1ZkR2tndGVVL2pLWWdnPWUjr8TrEqgBCA4SowEKHGFwK0VZV2ZHQVQ2cnlqWExJOGpyakhQYSt5UT0SJDA2Mjk2YjVmLTRjYmYtNDI3My1iNTBjLTZjODY3MTQyMDM3ZBgAIAAoADCZ7o+Fiy84y8XzlfUuQMvF85X1LkocOFA1MjNpaTFITk92bzhrdDQ3bTl6ZTlsUWxZPVofIh33NFp5NVpia29JWUp1cEwvcnR4VittWjF4T0xVPWU4/XbbEqgBCA0SowEKHGUzbDBkd1A4c1Vqc244bUs5WXJxeTR3QVhvOD0SJGU5NTY3YzZjLTc5MzAtNDM5ZS1iZjZmLTFlNmJiYjg5NjA3OBgAIAAoADCiv9mkji848NvM3o0vQPDbzN6NL0ocS2hhaWFLM2ZhcExBZEJ6S2YyTHVCb01WY1o0PVofIh3yaE5mNWZyN2I3KzhsYlZWN29ZeXVwQXVUU3hVPWUL/TomEqgBCAwSowEKHFBGZDNGeTVTNkh1VmVvYmVDWlUvL0crc1Vzdz0SJDkwOWQxMjI1LTRlYWMtNGU3Mi05ZDc1LTI1YzQzM2QyZGIwNBgAIAAoADCgv9mkji848NDqnu0uQPDQ6p7tLkocek4vdW9weXRUWU9Md3V6Z3JxVkZoTHBGdE5zPVofIh3uK0JGYkhjR2gxdnB5eGswZmxBQ1lOZHhYR0ZFPWUQMP/kEqcBCAkSogEKHGh1elBwWmxqMEdZcU1OK3hXeFV4QnE5dXVEWT0SJDIxNDI5NzFlLTdjY2EtNDJkZi05N2E2LWNlNzZkZjQ3NzAyMxgAIAIoAjDV2IC/kS846Ing19UuQMbTgL+RL0ocYk1BMWNPUzNRbURYL3ZiRE9ocW9lOGl3MUJjPVoeIhxzNVB1NVNtZjBXRDE1dlkweGVGUnB2MklZWms9ZTM6VHkSiQEIAhKEAQocekRWR3JydFpMZE0rNEJUeWJnK0hDT3JXZ3lvPRIkMzI3ZTMzMGYtZWI5Ny01ODJlLWEyYjAtYjk4MTI3NWM3NjgyGAAgACgAMN71oPbDLjiB9KD2wy5AgfSg9sMuShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WgBlAAAAABKnAQgIEqIBChxObm5VTm51dUJGOUtFWEtZeHptZW9yWDdFems9EiRjMjJkMWRjZS04OTY5LTQzYWEtYWE2Ny1kZDkwMjIxMDY2MTIYACACKAIw1diAv5EvOLec4dfVLkDG04C/kS9KHGZlUzEwWWhYRmJOTE1jOWtwTUdBZG0xMzJUUT1aHiIccDQxaTlXS0NwZnNOQUZ5RTY3dzVlcVRSeXJZPWVS7VlDEqcBCAcSogEKHGt5QnJuTUZOd3RFSzROVlJVRWZ0K1RiQ1A0cz0SJDA2MGU3YmMwLTI0ZDUtNDBkNi1hNTg0LTQ3ZDY2MzJiMDQ4MRgAIAIoAjDV2IC/kS842PKg9sMuQMXTgL+RL0ocMG40UUZGaWdoVU9iYzVwNnA0MG9UUEdkemkwPVoeIhxsNmNpYjNCZzRxaXpWTVhsZXEvdmQxSmxMNk09ZeOAymoSqAEICxKjAQocOW9qS0Y5QW05cHdlWmZoNU55OVFxSmV1dEhjPRIkOTgwNmQ3YTgtMTE3NC00MjNlLWI1YzctMDIxYzE3ODk4ODNmGAAgACgAMJ2/2aSOLzjo9Jea2i5A6PSXmtouShwwcUZ0NTkyWmFlaWNMRVZBdHNoYUxieUJ5VzA9Wh8iHdxKa0pIQlZnQWwyMjYxWXRwSkFXay93WE55Mmc9ZRZvfcUSqAEIChKjAQocVm13YzJ6TGdkWU5oYzhWYzlLSXhwL2F5UURvPRIkMGZlNTk5ZDMtOGJiNS00MjU1LTgwNDEtZmRjODZjYzAzZjliGAAgACgAMJy/2aSOLzjCzObX1S5Awszm19UuShx0Z1RYWkJPRmR2enhBaCtMdWpPRCsrdHc2SWM9Wh8iHbk3cWhGYnpQeUVPK2dVMlA5akkvWm03UTdVeHc9ZRlfvvkSqAEIEBKjAQocdkxWSXlxbWQzUk1POUxIeHhBNzNwRFM4UVdVPRIkN2VjY2FkNGQtM2I0OS00MDA5LThkZTYtNTUxNDQ1Y2ZhYzJiGAAgACgAMI+3zJ6RLzj/psyekS9A/6bMnpEvShxORzFNaDZBeTBiZ0ZQTU9GSXpGTTJSN2hrWDg9Wh8iHf1XMDFHZ2c3dzVBb0xBVXE2eDlqd1RXaitDc1E9Za+RgUESiQEIARKEAQocL0VLTGFVVXlNZGJLRWsxQmEyVWlueURuZjdJPRIkN2MzYjM4N2ItY2FiNC01MzIxLTk5MWItOWUwMGEwOGIzNGI4GAAgACgAMN31oPbDLjiB9KD2wy5AgfSg9sMuShxVK0dHSXRaRURwWnNJU2xPVWFJVHVJTGRNbkk9WgBlAAAAABKnAQgGEqIBChxSRXNnc0swT25QM095QWlTaWdFMHNhSGlEK3c9EiQxNWZlMDFiNC1iZjg5LTQ4ZjMtYWQ2NS02N2E4NzE5OTE3ZjgYACAAKAAwxoeh9sMuONjyoPbDLkDY8qD2wy5KHGJ0SWdaNVhWVTJjczlBbENvbCtCRzdBaGJTcz1aHiIcVDFrcEJLNDJYdlI4YjNJRTZmdmE2SHBBalV3PWUAAAAAEqcBCAUSogEKHG4reWdjaFFyemVQMEYwRVdjQU9heThPQk1HQT0SJDAwZjhmNzczLTk0NmQtNGQyYi05ZDQ3LTlhOTE2YWE4NWZjNRgAIAAoADDFh6H2wy442PKg9sMuQNjyoPbDLkocT05HUHNJTk03aGgrbzJiNmxrem5yeGZmaUVvPVoeIhxKR2lWTVVSL0xUV3lBaTI3bkRpZlNORVJWVXc9ZQAAAAASiQEIAxKEAQoceTVXRTI3dUk2dlgvRGVJU0hKem5qTXF1V1dzPRIkNDU0MTk3ZDUtY2NkYy01ZTBhLTk0NmEtYWYxMmE0MjUzNmMxGAAgACgAMOL1oPbDLjiB9KD2wy5AgfSg9sMuShw3OWwrTFJFVXBpYUV2REQrRzQzY3BYU3R3QmM9WgBlAAAAABgAIO7UgL+RLygA",
+   "version": 1
+}
